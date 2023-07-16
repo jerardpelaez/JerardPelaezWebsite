@@ -13,7 +13,7 @@ useHead({
       { charset: 'utf-8' },
       { name: 'description', content: 'Personal site about Jerard Pelaez.' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { name: 'og:image', content: 'https://v2.amp-cdn.net/images/480468a77ad0a1a6b1b2e773d9371249e13e3ca2aff757' }
+      { name: 'og:image', content: 'https://scontent.fmnl4-4.fna.fbcdn.net/v/t39.30808-6/328655063_1343717913047071_5090388974252053977_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEdof3yc2EJv1rnHxBBHXTfX6upwD5AQFFfq6nAPkBAUdIc9GsxfsIKPhKnTFUHP2psF7JNUKgPh4dJES7oupcr&_nc_ohc=NRgGnFyLc5QAX-H1SY3&_nc_ht=scontent.fmnl4-4.fna&oh=00_AfBC_UgM6HnMwxKbymPvDDh4GUj8sFFTGBTyvJPFyGLVTQ&oe=64B8EC1F' }
     ],
   link: [
     {
