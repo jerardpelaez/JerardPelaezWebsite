@@ -1,0 +1,11 @@
+{
+    "hello": "Hello",
+    "goodbye": "Good Bye",
+    "pageTitles": {
+        "about": "About",
+        "experience": "Experience",
+        "projects": "Projects",
+        "certificates": "Certificates",
+        "github": "Github"
+    }
+}
