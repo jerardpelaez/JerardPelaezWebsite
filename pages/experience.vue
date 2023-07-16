@@ -38,6 +38,60 @@ useHead({
             from GIT, following proper GIT flow guidelines. Deployment of systems is carried out
             within a Linux environment, and tasks are completed within the estimated timeline.
           </p>
+          <p>
+          <div class="flex-container">
+            <div>
+              <span class="chip primary">
+                HTML5
+              </span>
+            </div>
+            <div>
+              <span class="chip primary">
+                CSS
+              </span>
+            </div>
+            <div>
+              <span class="chip primary">
+                Javascript
+              </span>
+            </div>
+            <div>
+              <span class="chip primary">
+               Vue
+              </span>
+            </div>
+            <div>
+              <span class="chip primary">
+               Quasar
+              </span>
+            </div>
+            <div>
+              <span class="chip primary">
+              Cordova
+              </span>
+            </div>
+            <div>
+              <span class="chip primary">
+               Asana
+              </span>
+            </div>
+            <div>
+              <span class="chip primary">
+                Adobe XD
+              </span>
+            </div>
+            <div>
+              <span class="chip primary">
+                Github
+              </span>
+            </div>
+            <div>
+              <span class="chip primary">
+               Slack
+              </span>
+            </div>
+          </div>
+          </p>
         </li>
 
         <li class="timeline-item">
@@ -63,6 +117,65 @@ useHead({
             standards to meet client expectations. Addressing bug fixes for existing features is
             another essential aspect of the role
           </p>
+          <p>
+          <div class="flex-container">
+            <div>
+              <span class="chip primary">
+                HTML5
+              </span>
+            </div>
+            <div>
+              <span class="chip primary">
+                CSS
+              </span>
+            </div>
+            <div>
+              <span class="chip primary">
+                Javascript
+              </span>
+            </div>
+            <div>
+              <span class="chip primary">
+               Vue
+              </span>
+            </div>
+            <div>
+              <span class="chip primary">
+                Vuetify
+              </span>
+            </div>
+            <div>
+              <span class="chip primary">
+              Nuxt
+              </span>
+            </div>
+            <div>
+              <span class="chip primary">
+                Laravel
+              </span>
+            </div>
+            <div>
+              <span class="chip primary">
+                Jira
+              </span>
+            </div>
+            <div>
+              <span class="chip primary">
+                Adobe XD
+              </span>
+            </div>
+            <div>
+              <span class="chip primary">
+                Github
+              </span>
+            </div>
+            <div>
+              <span class="chip primary">
+               Slack
+              </span>
+            </div>
+          </div>
+          </p>
         </li>
 
         <li class="timeline-item">
@@ -85,6 +198,40 @@ useHead({
             Additionally, handling employee technical requests and providing assistance in resolving
             their technology-related concerns is a key aspect of the role.
 
+          </p>
+          <p>
+          <div class="flex-container">
+            <div>
+              <span class="chip primary">
+                Desktop Troubleshooting
+              </span>
+            </div>
+            <div>
+              <span class="chip primary">
+                Active Directory
+              </span>
+            </div>
+            <div>
+              <span class="chip primary">
+                DNS Settings
+              </span>
+            </div>
+            <div>
+              <span class="chip primary">
+                Antivirus Software
+              </span>
+            </div>
+            <div>
+              <span class="chip primary">
+                Network Troubleshooting
+              </span>
+            </div>
+            <div>
+              <span class="chip primary">
+                Hardware Setup
+              </span>
+            </div>
+          </div>
           </p>
         </li>
       </ol>
@@ -109,3 +256,28 @@ useHead({
     </section> -->
   </article>
 </template>
+
+<style scoped>
+.flex-container {
+  display: flex;
+  padding-top: 0.7em;
+  flex-wrap: wrap;
+}
+
+.chip {
+  padding: 6px 8px;
+  border-radius: 10px;
+  font-weight: 600;
+  font-size: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, .25);
+  margin: 0 10px;
+  opacity: 0.9;
+  margin-right: 1em;
+  margin-bottom: 1em;
+}
+
+.chip.primary {
+  background: #202c3b;
+  color: whitesmoke;
+}
+</style>
