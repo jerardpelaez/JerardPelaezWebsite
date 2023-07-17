@@ -28,14 +28,12 @@ useHead({
 
           <p style="font-size: 12px; color: white">
             In this role, the primary tasks involve transforming approved UI/UX designs into frontend
-            code, as well as creating backend REST APIs. The responsibility also includes translating
+            code, as well as integrating backend REST APIs to frontend. The responsibility also includes translating
             business requirements into technical requirements and implementing them through
             coding. Adhering to coding principles such as OOP (Object-Oriented Programming) and
             SOLID, as well as utilizing proper coding styles like ES6 and PSR-2, is essential. To ensure
             the system's quality, testing is conducted through the practice of TDD (Test Driven
-            Development). Additionally, designing a normalized database schema capable of handling
-            business data is part of the responsibilities. The process involves pushing and pulling code
-            from GIT, following proper GIT flow guidelines. Deployment of systems is carried out
+            Development). The process involves pushing and pulling code from GIT, following proper GIT flow guidelines. Deployment of systems is carried out
             within a Linux environment, and tasks are completed within the estimated timeline.
           </p>
           <p>
