@@ -98,7 +98,7 @@ useHead({
           <h4 class="h4 timeline-item-title">
             Bizmates Philippines Inc.
           </h4>
-          <span>Jan 2023 - July 2023</span>
+          <span>Jan 2020 - Jan 2023</span>
           <p class="timeline-item-desc">
             Muntinlupa City, Metro Manila
           </p>
@@ -182,7 +182,7 @@ useHead({
           <h4 class="h4 timeline-item-title">
             AllValue Holdings Corp.
           </h4>
-          <span>Jan 2023 - July 2023</span>
+          <span>Aug 2018 - Nov 2018</span>
           <p class="timeline-item-desc">
             Muntinlupa City, Metro Manila
           </p>
