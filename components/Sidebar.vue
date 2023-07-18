@@ -44,7 +44,7 @@ function toggleMenu() {
               Contact Number
             </p>
 
-            <a href="https://www.facebook.com/jerard.pelaez" class="contact-link" target="_blank">+639565102922</a>
+            <a class="contact-link">+639565102922</a>
           </div>
         </li>
 

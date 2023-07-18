@@ -28,6 +28,12 @@
           {{ $t('pageTitles.certificates') }}
         </NuxtLink>
       </li>
+
+      <li class="navbar-item">
+        <NuxtLink to="/resume" class="navbar-link">
+          {{ $t('pageTitles.resume') }}
+        </NuxtLink>
+      </li>
     </ul>
   </nav>
 </template>
