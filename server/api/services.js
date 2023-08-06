@@ -24,12 +24,22 @@ export default defineEventHandler(() => {
     },
     {
       id: 3,
-      title: 'Javascript',
+      title: 'JavaScript',
       description: {
         en: 'JavaScript empowers me to create captivating web experiences with interactivity, animations, and robust functionality.',
         id_ID: 'JavaScript empowers me to create captivating web experiences with interactivity, animations, and robust functionality.',
       },
       icon: 'devicon:javascript',
+      image: null,
+    },
+    {
+      id: 33,
+      title: 'TypeScript',
+      description: {
+        en: 'TypeScript empowers me to create captivating web experiences with its static typing, seamless JavaScript integration, and tools that catch errors early.',
+        id_ID: 'TypeScript empowers me to create captivating web experiences with its static typing, seamless JavaScript integration, and tools that catch errors early.',
+      },
+      icon: 'devicon:typescript',
       image: null,
     },
     {
