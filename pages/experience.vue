@@ -16,7 +16,7 @@ useHead({
       <ol class="timeline-list">
         <li class="timeline-item">
           <h4 class="h4 timeline-item-title">IT Americano</h4>
-          <span>July - Present</span>
+          <span>July 2023 - Present</span>
           <p class="timeline-item-desc">Makati City, Metro Manila</p>
           <p class="timeline-text">Mid Frontend Developer</p>
 
