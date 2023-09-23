@@ -3,7 +3,7 @@ useHead({
   title: 'Resume',
 })
 
-const resume = '/images/resume.jpg'
+const resume = '/images/resume-new.jpg'
 
 </script>
 
