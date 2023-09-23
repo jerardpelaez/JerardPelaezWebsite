@@ -26,7 +26,7 @@ const resume = '/images/resume.jpg'
           </div>
         </li>
       </ul>
-      <h1 style="color: white"><a :href="`https://drive.google.com/file/d/1O6vnqc4cYwtTbZD0MRYkFTfYns9H0v5v/view?usp=sharing`" download="download" target="_blank">Download Resume</a></h1>
+      <h1 style="color: white"><a :href="`https://drive.google.com/file/d/1OdVuBNzJb3jO_CV-JCI4TI4eDRO6eC8N/view?usp=sharing`" download="download" target="_blank">Download Resume</a></h1>
     </section>
   </article>
 </template>
