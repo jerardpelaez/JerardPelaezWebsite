@@ -21,16 +21,11 @@ useHead({
           <p class="timeline-text">Mid Frontend Developer</p>
 
           <p style="font-size: 12px; color: white">
-            As a frontend developer, the role is to update and enhance existing designs, HTML, and
-            CSS with new features efficiently. My creative mindset allows me to
-            develop innovative solutions for complex problems, and I write
-            clean, well-designed code. I design visually appealing websites and
-            convert PSD designs into responsive UI/UX compliant with W3C
-            standards. I integrate front-end with API backends and develop
-            functions for 'Live-Game' as needed. Using GIT, I ensure proper
-            version control. I am dedicated to maintaining service quality,
-            troubleshooting issues, and providing 24/7 support. My portfolio
-            showcases my expertise in delivering high-quality projects.
+            - Specialized in maintaining and enhancing live game casino applications, with a focus on bug fixing and user experience improvements. <br />
+            - Proficient in implementing new features to enhance gameplay and engagement. <br />
+            - Expertise in Vue.js and TypeScript for web applications and Laya Air IDE and Fairy GUI for mobile apps. <br />
+            - Successfully address translation challenges to ensure accessibility for a diverse user base. <br />
+            - Dedication and skills contribute to the smooth operation and continued success of live game projects in the gaming industry. <br />
           </p>
           <div class="flex-container">
             <div>
@@ -70,18 +65,13 @@ useHead({
           <p class="timeline-text">Frontend Developer</p>
 
           <p style="font-size: 12px; color: white">
-            In this role, the primary tasks involve transforming approved UI/UX
-            designs into frontend code, as well as integrating backend REST APIs
-            to frontend. The responsibility also includes translating business
-            requirements into technical requirements and implementing them
-            through coding. Adhering to coding principles such as OOP
-            (Object-Oriented Programming) and SOLID, as well as utilizing proper
-            coding styles like ES6 and PSR-2, is essential. To ensure the
-            system's quality, testing is conducted through the practice of TDD
-            (Test Driven Development). The process involves pushing and pulling
-            code from GIT, following proper GIT flow guidelines. Deployment of
-            systems is carried out within a Linux environment, and tasks are
-            completed within the estimated timeline.
+            - Proficient in translating UI/UX designs into flawless frontend code, seamlessly integrating backend REST APIs. <br />
+            - Bridge the gap between business requirements and technical implementation through precision coding. <br />
+            - Strong advocate for coding principles like OOP (Object-Oriented Programming) and SOLID, with expertise in modern standards such as ES6 and PSR-2. <br />
+            - Emphasize quality through rigorous testing practices, following TDD (Test Driven Development) principles. <br />
+            - Proficient in GIT for version control, adhering to GIT flow guidelines for streamlined collaboration. <br />
+            - Skilled in converting Vue.js to mobile apps using Quasar for Android and iOS. <br />
+            - Experienced in deployment within a Linux environment, consistently meeting project timelines while maintaining efficiency and effectiveness. <br />
           </p>
           <div class="flex-container">
             <div>
@@ -124,18 +114,12 @@ useHead({
           <p class="timeline-text">Software Developer</p>
 
           <p style="font-size: 12px; color: white">
-            In the role of a frontend developer, the primary focus is on
-            developing new features for a project. This entails applying ES6
-            standards while coding and reviewing code from other developers.
-            Following the Agile Methodology is a crucial aspect of the
-            development process. To stay updated and aligned with the team,
-            daily scrum meetings are attended to provide progress updates.
-            Additionally, participating in code demo features for clients is an
-            important responsibility. The task also involves transforming UI/UX
-            designs into frontend web code and ensuring that the implementation
-            aligns with pixel-perfect standards to meet client expectations.
-            Addressing bug fixes for existing features is another essential
-            aspect of the role
+            - Driving innovation through the development of new project features, adhering to the latest ES6 standards to produce clean and efficient code. <br />
+            - Actively engaging in code reviews to ensure the highest code quality and foster knowledge sharing within the team. <br />
+            - Integral role in an Agile development process, promoting flexibility and adaptability to evolving project needs. <br />
+            - Active participation in daily scrum meetings, providing crucial progress updates for team alignment and transparency. <br />
+            - Transforming intricate UI/UX designs into flawless frontend web code, ensuring pixel-perfect implementation, and consistently exceeding client expectations. <br />
+            - Addressing bug fixes for existing features to maintain project stability and performance, prioritizing client satisfaction. <br />
           </p>
           <div class="flex-container">
             <div>
@@ -181,14 +165,11 @@ useHead({
           <p class="timeline-text">Desktop Support Engineer (Intern)</p>
 
           <p style="font-size: 12px; color: white">
-            In this role, the focus is on providing technical support to
-            employees and addressing various network and hardware issues. This
-            includes fixing necessary network problems, setting up full desktop
-            computers, and resolving POS (Point of Sale) problems. Installing
-            antivirus software and troubleshooting printer issues are also part
-            of the responsibilities. Additionally, handling employee technical
-            requests and providing assistance in resolving their
-            technology-related concerns is a key aspect of the role.
+            - Proven track record in delivering top-tier technical support to enhance employee productivity. <br />
+            - Expert in diagnosing and resolving diverse network and hardware issues, ensuring seamless technology operations. <br />
+            - Proficient in swiftly resolving network problems, setting up desktop computer systems, and troubleshooting Point of Sale (POS) systems. <br />
+            - Skilled in configuring antivirus software to bolster cybersecurity and resolving printer-related challenges. <br />
+            - Actively engage with employees to address technical requests, providing comprehensive assistance and prioritizing productivity and satisfaction. <br />
           </p>
           <div class="flex-container">
             <div>
