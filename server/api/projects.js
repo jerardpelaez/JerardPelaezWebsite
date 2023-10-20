@@ -227,5 +227,30 @@ export default defineEventHandler(() => {
       image: '/images/cashbee-promotion.png',
       url: 'https://cashbee.ph/',
     },
+    {
+      id: 10,
+      title: 'Oriental Games',
+      category: {
+        id: 2, //see categories.js
+        date: {
+          en: 'July 2023',
+          id_ID: 'October 2023',
+        },
+        title: {
+          en: 'Web Application',
+          id_ID: 'Web Application',
+        },
+      },
+      content: {
+        en: "Multiple live casino game in browser built with game engine",
+        id_ID: "Multiple live casino game in browser built with game engine",
+      },
+      desc: {
+        en: 'View Project',
+        id_ID: 'View Project',
+      },
+      image: '/images/live-game.png',
+      url: 'https://www.orientalgame.com/',
+    },
   ]
 })

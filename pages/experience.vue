@@ -15,8 +15,44 @@ useHead({
     <section class="timeline">
       <ol class="timeline-list">
         <li class="timeline-item">
+          <h4 class="h4 timeline-item-title">CAPLINQ Philippines Inc.</h4>
+          <span>November 2023 - Present</span>
+          <p class="timeline-item-desc">Metro Manila</p>
+          <p class="timeline-text">Frontend Developer</p>
+
+          <p style="font-size: 12px; color: white">
+            - Develop front-end solutions using HTML, CSS, and JavaScript <br />
+            - Add integration testing and optimize the developer experience <br />
+            - Optimize the public website <br />
+            - Collaborate with UX/UI designers to translate designs into functional front-end solutions. <br />
+            - Regularly update and maintain the codebase to ensure its efficiency and scalability. <br />
+            - Conduct performance testing and optimization for faster load times and responsiveness. <br />
+          </p>
+          <div class="flex-container">
+            <div>
+              <span class="chip primary"> HTML5 </span>
+            </div>
+            <div>
+              <span class="chip primary"> CSS </span>
+            </div>
+            <div>
+              <span class="chip primary"> Javascript </span>
+            </div>
+            <div>
+              <span class="chip primary"> Typescript </span>
+            </div>
+            <div>
+              <span class="chip primary"> Version Control </span>
+            </div>
+            <div>
+              <span class="chip primary"> Aurelia Framework </span>
+            </div>
+          </div>
+        </li>
+
+        <li class="timeline-item">
           <h4 class="h4 timeline-item-title">IT Americano</h4>
-          <span>July 2023 - Present</span>
+          <span>July 2023 - October 2023</span>
           <p class="timeline-item-desc">Makati City, Metro Manila</p>
           <p class="timeline-text">Mid Frontend Developer</p>
 
@@ -62,7 +98,7 @@ useHead({
           <h4 class="h4 timeline-item-title">Cashbee Lending Services</h4>
           <span>January 2023 - June 2023</span>
           <p class="timeline-item-desc">Muntinlupa City, Metro Manila</p>
-          <p class="timeline-text">Frontend Developer</p>
+          <p class="timeline-text">Mid Frontend Developer</p>
 
           <p style="font-size: 12px; color: white">
             - Proficient in translating UI/UX designs into flawless frontend code, seamlessly integrating backend REST APIs. <br />
